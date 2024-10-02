@@ -1,23 +1,13 @@
+
 {"name": "REPLAY TV",
 "author": "ETELIO SALCEDO ©2024",
 "url": "https://vlink.lol/vfm/play/etelio/W3U/tvclub.w3u",
-"image": "https://vlink.lol/vfm/play/etelio/Logox/Cine/IMG_20241001_071702_073.jpg",
-"info": "proyecto tv club  *canales, películas y series*",
+"image": "https://vlink.lol/vfm/play/etelio/W3U/imagen/Replay.png",
+"info": "Replay tv *tv, películas & series*",
 "telegram": "etelio_salcedo",
 "groups": [
 
-{"name": "CANALES",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQflaJFaKbEyC9PqCamYrBsikY-jEarzOcEVg&usqp=CAU",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/CATEGORÍAS.txt"},
-
-{"name": "PELICULAS",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR08KMFw2WXhcMKswQWW-4mVJEX2S4kkvOfiigEMGl2ug&s",
-"url": "https://af1c1onados.vercel.app/06.0.0.Menu.MovIEs.w3u"},
-
-{"name": "SERIES",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQeZOSQV0cES6pkw41scgqNA87uhLLtVIn4w-YBOOSA&s",
-"url": "https://af1cionados.vercel.app/Menu SeRies.w3u"}]},
-
-
-
+{"name": "REPLAY TV 📡",
+"image": "https://vlink.lol/vfm/play/etelio/W3U/imagen/Replay_tv.png",
+"url": "https://vlink.lol/vfm/play/etelio/W3U/CATEGORÍAS.txt"}]},
 
