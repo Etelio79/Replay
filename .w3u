@@ -12,5 +12,8 @@
 
 {"name": "REPLAY MOVIES",
 "image": "https://vlink.lol/vfm/play/etelio/Logox/replay2.png",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Movies.m3u"}]},
+"url": "https://vlink.lol/vfm/play/etelio/W3U/Movies.m3u"},
 
+{"name": "REPLAY SERIES",
+"image": "https://vlink.lol/vfm/play/etelio/Logox/replay2.png",
+"url": "https://vlink.lol/vfm/play/etelio/W3U/Series.m3u"}]},
