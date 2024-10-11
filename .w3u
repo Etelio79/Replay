@@ -1,69 +1,19 @@
 {"name": "REPLAY TV",
-"author": "CATEGORÍAS",
-"url": "https://raw.githubusercontent.com/Etelio79/Categor-as/refs/heads/main/.w3u",
+"author": "ETELIO SALCEDO ©2024",
+"url": "https://raw.githubusercontent.com/Etelio79/Replay/refs/heads/main/.w3u",
 "image": "https://vlink.lol/vfm/play/etelio/Logox/replay2.png",
+"info": "Replay tv *tv, películas & series*",
+"telegram": "etelio_salcedo",
 "groups": [
 
-{"name": "CINE & SERIES",
-"image": "https://img.freepik.com/vector-premium/banner-cine-cine_108855-11.jpg",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Cinevip.txt"},
+{"name": "REPLAY TV",
+"image": "https://vlink.lol/vfm/play/etelio/Logox/replay2.png",
+"url": "https://raw.githubusercontent.com/Etelio79/Categor-as/refs/heads/main/.w3u"},
 
-{"name": "ZONA DEPORTIVA",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3ZoTx6pNX2LC3qMdugERV9zW7g2NnlgpyhKXlnUnSQ&s",
-"url": "https://github.com/Etelio79/Deportes/blob/main/.m3u"},
+{"name": "REPLAY MOVIES",
+"image": "https://vlink.lol/vfm/play/etelio/Logox/replay2.png",
+"url": "https://vlink.lol/vfm/play/etelio/W3U/Movies.m3u"},
 
-{"name": "PLUTO TV",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq9BoBuo4j16aD5WguyoMWsRAKmZU6cD668A&usqp=CAU",
-"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/4c9e648d2c2b070f43648ca5b231156f5858f019/tv/m3u/PlutoTV_tv_MX.m3u"},
-  
-{"name": "INFANTILES",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHMDpcOWvTC1eKzPhhlwNJq5Cp943i8gBwA&usqp=CAU",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Infantil.txt"},
-
-{"name": "CULTURALES",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujnfnYU_jqEY0zyLU2z5bhaxeHTRXajjkdA&usqp=CAU",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Cultural.txt"},
-
-{"name": "COLOMBIA",
-"image": "https://i.revistapym.com.co/old/2016/09/Colombia3OK-1.png",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Colombia.txt"},
-
-{"name": "COSTA RICA",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ-S6S-J5q3jiLhVpj_cSq0fVw7ic7n60OZA&usqp=CAU",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Costa_Rica.txt"},
-
-{"name": "EL SALVADOR",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREL478uO2-D2SWxGmCYNswIwxMdsZtHqMjUA&usqp=CAU",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/El_salvador.txt"},
-
-{"name": "PARAGUAY",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsHWi_p5yEC789_NaODWOJwB1iEFFjZL1j0IjYn_pKAQ&s",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Paraguay.txt"},
-
-{"name": "CHILE",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0cLxnnnCgXijpRJSJBIsllhhUM8KcxS-ny6zp3RPBQ&s",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Chile.txt"},
-
-{"name": "ARGENTINA",
-"image": "https://i.ytimg.com/vi/6Mua1S47S04/mqdefault.jpg",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Argentina.txt"},
-
-{"name": "VENEZUELA",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqIsxt4Fetavf-JlIRRnylDAU_zCIMVYUmA&usqp=CAU",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Venezuela.txt"},
-
-{"name": "PERÚ",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOqd-MYJLYnSLOZ-vOxRoCzllxZ5xopqtZQ&usqp=CAU",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Peru.txt"},
-
-{"name": "NICARAGUA",
-"image": "https://i.ytimg.com/vi/pDu5-WWXPO0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCuPJ93L7zFpVXQ_oChhMDe68Heew",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Nicaragua.txt"},
-
-{"name": "ESTADOS UNIDOS",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJNnP5QAoW_Aw1lim_8SOXjHKonlwtukQdQ&usqp=CAU",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Usa.txt"},
-
-{"name": "INFORMACIÓN IMPORTANTE",
-"image": "https://i.ibb.co/TPMqJ72/atencion.png",
-"url": "https://raw.githubusercontent.com/Etelio79/Informaci-n/refs/heads/main/.w3u"}]},
+{"name": "REPLAY SERIES",
+"image": "https://vlink.lol/vfm/play/etelio/Logox/replay2.png",
+"url": "https://vlink.lol/vfm/play/etelio/W3U/Series.m3u"}]},
